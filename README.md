@@ -22,13 +22,17 @@ This is a web based application developed for health related telugu based websit
 
 
 
-   
+   ![screenshot 1](https://user-images.githubusercontent.com/116709164/201470800-db327a84-e74b-4206-9e8f-9f808461637d.jpeg)
+![screenshot 2](https://user-images.githubusercontent.com/116709164/201470801-12b8a8c2-a971-4c13-b5c5-617298d6ff90.jpeg)
+![about us](https://user-images.githubusercontent.com/116709164/201470802-264aef79-721b-4195-90c0-ccfd470b94d3.jpeg)
+
 
 ### About Us -
 
 
 
 
+![about us](https://user-images.githubusercontent.com/116709164/201470798-0273fff0-d3de-4ea7-abff-054202cf74fd.jpeg)
 
 
 ### Privacy policy -
