@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://saiabhilash442.github.io/project18/index.html
-** project video link video** - 
+** project video link video** - https://www.youtube.com/watch?v=SdgLvrs0XwE
 
 ## Features and Functionalities 😃
 
